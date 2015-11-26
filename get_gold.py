@@ -64,6 +64,7 @@ if __name__ == '__main__':
     Let_Us_Get_Gold().get_gold(news_body_data, wx_username, sy_c)
 
 
+
 # 金币查看界面
 # https://zspay.zhongsou.com/coin/mypurse?sy_c=1Q05HLpDk5Bi45V%2FlrWChWqI%2B9nJRFOoEEzrCTqMKep%2BKtlHyrnTDHOLtGSUL%2F7GPMgT9mvLAvRzJb70Ak0XIMcLuDATV6yu%2FHzQFjhzUdOcPYz%2F4OFsRRimtNMG%2F%2FI2bPhNJ%2FSj3Eq3lgBBY8%2B05A70p5XajisNEn5ZLsi8w4OgcOfbUOZVT2Sj1QzRuSjvKESBxIqTq1DT72aTUV4rfPNQP6HUtHHdvJ3WqV1MNfcTftjmIu54YZ8%3D+
 
