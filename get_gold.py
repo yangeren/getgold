@@ -1,4 +1,5 @@
 #coding=utf-8
+#__author__ = wanghan
 import requests
 import re
 import urllib, urllib2
